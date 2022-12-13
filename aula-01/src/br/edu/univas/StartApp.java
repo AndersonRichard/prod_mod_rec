@@ -1,5 +1,5 @@
-/*Introdução quando aos métodos e a forma que devemos usar, tem como objetivo deixar
-o método main mais limpo e organizado.
+/*Primeira aula foi feita a introdução quando aos métodos e a forma que devemos usar, tem como objetivo
+* deixar o método main mais limpo e organizado.
 * Na atividade pediu-se que o usuario digitasse dois números para calcular 4 operações
 * basicas da calculadora utilizando cada método para isso.
 * */
