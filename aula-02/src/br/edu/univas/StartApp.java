@@ -1,6 +1,6 @@
-/*Segunda aula deu-se continuidade do conteúdo referente a métodos inserindo assim uma estrutura
-* de repetição para realizar o cálculo das 4 operações básicas da calculadora.
-* */
+/*Dando continuidade na introdução de métodos para que o método main fique mais limpo e organizado.
+Contudo usando métodos com os itpos de váriaveis usando uma estrutura de repetição.
+*/
 package br.edu.univas;
 
 import java.sql.SQLOutput;
